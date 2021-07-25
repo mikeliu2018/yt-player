@@ -1,0 +1,2 @@
+rootProject.name = "yt-player"
+include ':app'
